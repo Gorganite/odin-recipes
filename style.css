@@ -11,8 +11,11 @@ background-color: antiquewhite;
 }
 
 h1 {
-    background-color: white;
-    text-align: center;
+    background-color: rgb(245, 245, 4);
+    margin: auto;
+    width: fit-content;
+    
+   
     
 }
 
@@ -26,7 +29,4 @@ h2 {
 
 .left {
     text-align: left;
-
-
 }
-t
