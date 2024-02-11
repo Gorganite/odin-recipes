@@ -56,3 +56,14 @@ border-style: solid;
 padding: 8px;
 margin: 12px;
 }
+
+ul{
+    list-style: none;
+}
+
+button{
+    font-size: 30px;
+    padding: 8px;
+    margin: 8px;
+    background-color: #B0E0E6;
+}
