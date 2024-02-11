@@ -49,3 +49,10 @@ div {
     font-size: 30px;
 
 }
+
+.border {
+
+border-style: solid;
+padding: 8px;
+margin: 12px;
+}
